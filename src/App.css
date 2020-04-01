@@ -1,9 +1,7 @@
 body{
     margin: 0;
     padding: 0;
-    background: url('./assets/background.jpg');
-    background-size: cover;
-    background-position: center;
+    background-image: linear-gradient(to right, #C4F3F1  , #27D8DE);
 }
 .App {
    height: 100%;
